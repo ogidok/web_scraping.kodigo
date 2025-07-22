@@ -4,6 +4,7 @@ Este proyecto realiza web scraping en [Books to Scrape](https://books.toscrape.c
 La salida se muestra de forma ordenada en la consola usando la librería [rich](https://github.com/Textualize/rich), y también se exporta a un archivo CSV.
 
 ---
+<img width="1285" height="964" alt="image" src="https://github.com/user-attachments/assets/f870b182-6522-47cb-aba9-06d83bb5ceaa" />
 
 ## Características
 - Scraping de múltiples páginas de libros.
